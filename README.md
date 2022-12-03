@@ -95,5 +95,3 @@ Max Stats - Maximize your cards' stats.
 I am not responsible for your actions with these cheats.
 Made With JavaScript:
 javascript
-
-Copyright © 2022 rzx.
